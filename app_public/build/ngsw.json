@@ -1,0 +1,112 @@
+{
+  "configVersion": 1,
+  "timestamp": 1607657390442,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/index.html",
+        "/main.3518514d0a1819eaae27.js",
+        "/manifest.webmanifest",
+        "/polyfills.35a5ca1855eb057f016a.js",
+        "/runtime.acf0dec4155e77772545.js",
+        "/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/apple-icon-180.png",
+        "/assets/icons/icon.png",
+        "/assets/icons/manifest-icon-192.png",
+        "/assets/icons/manifest-icon-512.png",
+        "/assets/javascripts/bootstrap.min.js",
+        "/assets/javascripts/vaildation.js",
+        "/assets/stylesheets/all.min.css",
+        "/assets/stylesheets/bootstrap.min.css",
+        "/assets/stylesheets/desktop.ini",
+        "/assets/stylesheets/style.css",
+        "/assets/webfonts/fa-brands-400.eot",
+        "/assets/webfonts/fa-brands-400.svg",
+        "/assets/webfonts/fa-brands-400.ttf",
+        "/assets/webfonts/fa-brands-400.woff",
+        "/assets/webfonts/fa-brands-400.woff2",
+        "/assets/webfonts/fa-regular-400.eot",
+        "/assets/webfonts/fa-regular-400.svg",
+        "/assets/webfonts/fa-regular-400.ttf",
+        "/assets/webfonts/fa-regular-400.woff",
+        "/assets/webfonts/fa-regular-400.woff2",
+        "/assets/webfonts/fa-solid-900.eot",
+        "/assets/webfonts/fa-solid-900.svg",
+        "/assets/webfonts/fa-solid-900.ttf",
+        "/assets/webfonts/fa-solid-900.woff",
+        "/assets/webfonts/fa-solid-900.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/apple-icon-180.png": "bfbb5e1884c56c68c43b4a6579929b2b73af105d",
+    "/assets/icons/icon.png": "e3fb26230a703c872709a9a21bafe12a652dbcd9",
+    "/assets/icons/manifest-icon-192.png": "827b5e7265919f43403287480e9109c83c81f098",
+    "/assets/icons/manifest-icon-512.png": "3f651f4ce38b8ae0bb2879e42beec4a37428f8b4",
+    "/assets/javascripts/bootstrap.min.js": "0cc93b8421d89c24a889642428b363cb831de78a",
+    "/assets/javascripts/vaildation.js": "0fe14a3e1d9fe9b38882999db088de5ef3026235",
+    "/assets/stylesheets/all.min.css": "6f33eae92d42fe209167139940a0ad6a3c6c167e",
+    "/assets/stylesheets/bootstrap.min.css": "c470239d4c7db36d56dc3a74a080c62218c6edc4",
+    "/assets/stylesheets/desktop.ini": "4bbc4f063b4cd4bb41f3e751984605416185d6fe",
+    "/assets/stylesheets/style.css": "e8b92e3d415961a2c977ee8c2920cbac44b6f60f",
+    "/assets/webfonts/fa-brands-400.eot": "40c8f2a0dc154160fde50e0c27f694f12c7b1636",
+    "/assets/webfonts/fa-brands-400.svg": "99dff0739882276ad6c434d73228efc7971b0a66",
+    "/assets/webfonts/fa-brands-400.ttf": "29f59b4eecc72052d9110a5d4030a10ad9bf73d7",
+    "/assets/webfonts/fa-brands-400.woff": "fddb95d7a0f48d2bf90a5ee3095e8264dca18053",
+    "/assets/webfonts/fa-brands-400.woff2": "62584b9868428fd75af3fc5ee2f9918dda428be5",
+    "/assets/webfonts/fa-regular-400.eot": "3306178c90d9df939d2a5eabf533ba3650fbe80e",
+    "/assets/webfonts/fa-regular-400.svg": "51afca56e309df6fdc56b53fa6a7d3ce64826490",
+    "/assets/webfonts/fa-regular-400.ttf": "517a3b41c1e01b65898b5f1074434d43a361a54f",
+    "/assets/webfonts/fa-regular-400.woff": "da17a9f1dcae379c8ba20f1089059c202216cba7",
+    "/assets/webfonts/fa-regular-400.woff2": "5e4d45052f43e55aaad7f14d13280215e39aa45b",
+    "/assets/webfonts/fa-solid-900.eot": "96a5637429426764ea9b28bf4d1eb55ae10de57e",
+    "/assets/webfonts/fa-solid-900.svg": "5501fb62e20a89bdd89bf3fa147ca4dbcd2fc67f",
+    "/assets/webfonts/fa-solid-900.ttf": "874c650701d0cbfb8f1de48a496dabed3bbf22e6",
+    "/assets/webfonts/fa-solid-900.woff": "f13e252f8a51a5279fd21e26ada0bd2f55bcefd8",
+    "/assets/webfonts/fa-solid-900.woff2": "6290834672aba86d5b6c1c73b30b57c9c53996f7",
+    "/index.html": "810e272bd458d20fe9faba8424513b71ed9df52d",
+    "/main.3518514d0a1819eaae27.js": "09bcba37a41764258f188bbc9435ee80998e7a4e",
+    "/manifest.webmanifest": "e05fb5bb1765f5b444e678a5211c1af94bcafc1c",
+    "/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
